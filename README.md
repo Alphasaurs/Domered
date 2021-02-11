@@ -1,2 +1,2 @@
 # Domered
-Fetch github api username repository using redis caching
+A backend application with REST api design. 
